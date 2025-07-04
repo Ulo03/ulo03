@@ -1,5 +1,23 @@
-### Hi there 👋
+# 👋 Hi there, I'm Lukas!
+🎓 I'm a student at the **University of Applied Sciences Wiener Neustadt** in Austria.
 
+## 🚀 About Me
+
+- 🧠 Curious learner and lifelong tinkerer  
+- 💻 Focused on web development, software engineering, and user-centered design  
+- ⚙️ I enjoy building useful, intuitive tools and experimenting with new technologies  
+- 🇦🇹 Based in Austria
+
+## 📈 Currently Working On
+- 🎯 University projects and research  
+- 🛠️ A web-based management system for a local airfield
+
+---
+
+> _"Design is not just what it looks like and feels like. Design is how it works."_  
+> — Steve Jobs
+
+Thanks for stopping by! ⭐️
 <!--
 **Ulo03/ulo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
