@@ -11,6 +11,7 @@
 ## 📈 Currently Working On
 - 🎯 University projects and research  
 - 🛠️ A web-based management system for a local airfield
+- 🎧 A self-hosted music history & analytics platform.
 
 ---
 
